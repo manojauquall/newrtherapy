@@ -1,0 +1,39 @@
+{
+  "name": "asd",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-navigation/core": "^3.0.0",
+    "@react-navigation/native": "^3.1.1",
+    "native-base": "^2.10.0",
+    "prop-types": "^15.6.0",
+    "react": "16.6.3",
+    "react-native": "0.58.0",
+    "react-native-elements": "^0.19.1",
+    "react-native-gesture-handler": "^1.0.14",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-splash-screen": "^3.1.1",
+    "react-native-timer-mixin": "^0.11.0",
+    "react-native-vector-icons": "^4.6.0",
+    "react-navigation": "^2.0.0",
+    "react-navigation-drawer": "^1.1.0",
+    "react-navigation-tabs": "^1.0.2",
+    "react-timer-mixin": "^0.13.4",
+    "reactotron-react-native": "^2.1.4",
+    "tcomb-form-native": "^0.6.20"
+  },
+  "devDependencies": {
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
