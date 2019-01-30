@@ -1,1 +1,8 @@
-welcome
+
+1 - git clone  https://github.com/manojauquall/newrtherapy.git
+
+2-  npm install
+3 - react-native link
+4-  open avd emulator from android studio
+5-  react-native run-android
+
